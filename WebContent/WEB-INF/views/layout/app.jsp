@@ -17,7 +17,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Risa Tanaka.
+                by Mitsuki Tanaka.
             </div>
         </div>
     </body>

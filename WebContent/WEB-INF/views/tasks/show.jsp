@@ -11,7 +11,7 @@
                     <tbody>
                         <tr>
                             <th>ID</th>
-                            <td><c:out value="${task.title}" /></td>
+                            <td><c:out value="${task.id}" /></td>
                         </tr>
                         <tr>
                             <th>タスク名</th>
